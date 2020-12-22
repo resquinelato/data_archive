@@ -1,4 +1,4 @@
-t(øC),Density(g/cm3),Cp(J/g K),Vap. pres.(kPa),Visc.(æPa s),Ther. cond.(mW/K m),Diel. const.,Surf. ten.(mN/m)
+t(Â°C),Density(g/cm3),Cp(J/g K),Vap. pres.(kPa),Visc.(Ã¦Pa s),Ther. cond.(mW/K m),Diel. const.,Surf. ten.(mN/m)
 0,0.99984,4.2176,0.6113,1793.0,561.0,87.9,75.64
 10,0.9997,4.1921,1.2281,1307.0,580.0,83.96,74.23
 20,0.99821,4.1818,2.3388,1002.0,598.4,80.2,72.75
